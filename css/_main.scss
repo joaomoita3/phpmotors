@@ -1,0 +1,14 @@
+body {
+  background-image: url("/phpmotors/images/site/checkerboard.jpg");
+  font-family: "Roboto", sans-serif;
+}
+.title {
+  margin: 10px;
+}
+.content-wrapper {
+  background-color: $white;
+  border: solid $blue 5px;
+  border-radius: 6px;
+  margin: 0 auto;
+  max-width: 1000px;
+}

@@ -1,0 +1,12 @@
+.header-wrapper {
+  .account {
+    float: right;
+    p {
+      margin-right: 30px;
+      a {
+        text-decoration: none;
+        color: $dark-gray;
+      }
+    }
+  }
+}

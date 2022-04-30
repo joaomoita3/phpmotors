@@ -1,0 +1,17 @@
+.nav-wrapper {
+  background-color: $dark-gray;
+  padding: 10px 0;
+  li {
+    list-style: none;
+    display: inline;
+  }
+  a {
+    text-decoration: none;
+    color: $white;
+    padding: 30px 7px;
+    &:hover {
+      background-color: $blue;
+      color: $black;
+    }
+  }
+}
