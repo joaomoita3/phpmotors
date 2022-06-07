@@ -44,7 +44,7 @@
       <div class="footer-wrapper">
         <p>©PHP Motors, all rights reserved.</p>
         <p>All images used are believed to be in "fair use". Please notify the author if they are not and they will be removed.</p>
-        <p>Last updated: 15 January , 2022</p>
+        <p>Last updated: 16 May , 2022</p>
       </div>
     </footer>
   </div>
